@@ -7,6 +7,7 @@ if (isset($_SESSION["user_image"])) {
 
 <!DOCTYPE html>
 <html lang="es">
+ 
 
 <head>
     <meta charset="UTF-8">
